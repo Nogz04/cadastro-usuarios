@@ -10,7 +10,7 @@ Este é um projeto backend desenvolvido com **Java + Spring Boot**, que oferece 
 - Spring Boot
 - Spring Web
 - Spring Data JPA
-- H2 Database (ou outro banco, como MySQL)
+- Banco de Dados MySQL
 - Maven
 - Postman (para testes)
 
